@@ -1,0 +1,7 @@
+C:\Users\usr\source\repos\AddTwoNumber\AddTwoNumber\bin\Debug\AddTwoNumber.exe.config
+C:\Users\usr\source\repos\AddTwoNumber\AddTwoNumber\bin\Debug\AddTwoNumber.exe
+C:\Users\usr\source\repos\AddTwoNumber\AddTwoNumber\bin\Debug\AddTwoNumber.pdb
+C:\Users\usr\source\repos\AddTwoNumber\AddTwoNumber\obj\Debug\AddTwoNumber.csprojAssemblyReference.cache
+C:\Users\usr\source\repos\AddTwoNumber\AddTwoNumber\obj\Debug\AddTwoNumber.csproj.CoreCompileInputs.cache
+C:\Users\usr\source\repos\AddTwoNumber\AddTwoNumber\obj\Debug\AddTwoNumber.exe
+C:\Users\usr\source\repos\AddTwoNumber\AddTwoNumber\obj\Debug\AddTwoNumber.pdb
